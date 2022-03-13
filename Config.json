@@ -1,6 +1,6 @@
 {
-    "types":*"requests","you-get","bili"*,
+    "types":"bili",
     "ASDB":true,
-    "url":["BV92UEG4n"，“https://b23.tv/92UEG4n”],
+    "url":["BV92UEG4n"],
     "webhooks":[]
 }
